@@ -1,0 +1,24 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+*.egg-info/
+
+# Build artifacts
+build/
+dist/
+
+# Test and tooling
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Editors and OS
+.DS_Store
+*.swp
+*.swo
+
+# Environment variables
+.env
